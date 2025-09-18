@@ -1,2 +1,2 @@
 # robot-barber
-Software for hair cutting robot
+This is the software used for the hair cutting robot I built. See: https://byronknoll.com/robot-barber.html
